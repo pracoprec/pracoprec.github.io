@@ -1,3 +1,2 @@
-# pracoprec.github.io
 
-visit https://www.pracoprec.com
+Visit **[pracoprec.com](https://www.pracoprec.com)**.
